@@ -27,4 +27,4 @@ I've also created a gem called [remove_turbolinks](https://github.com/RyanNielso
 2. Run `rails g remove_turbolinks:remove` to remove all references to Turbolinks in your project.
 
 
-It's as easy as that to remove Turbolinks from your Ruby on Rails project. It's an interesting technology, so it's worth trying before your decide to remove it.
+It's as easy as that to remove Turbolinks from your Ruby on Rails project. Turbolinks is an interesting technology, so it's worth trying before your decide to remove it.
