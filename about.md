@@ -10,4 +10,4 @@ image:
 share: true
 ---
 
-My name's Ryan Nielson. I'm a web developer, currently based out of Halifax, Nova Scotia. I like trying out new web technologies, and developing video games in my spare time.
+My name's Ryan Nielson and I'm a web developer living in Halifax, Nova Scotia. I like trying out new web technologies, and developing video games in my spare time.
