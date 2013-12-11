@@ -2,7 +2,7 @@
 layout: post
 title: Removing Turbolinks from a Ruby on Rails 4 Project
 description: "A short guide to removing Turbolinks from a Ruby on Rails 4 project manually or with the help of a gem."
-tags: [ruby on rails, web]
+tags: [ruby on rails, web development]
 image:
   feature: abstract-10.jpg
   credit: dargadgetz
