@@ -3,7 +3,7 @@ title: Ryan Nielson
 description: The personal site and blog of Ryan Nielson.
 disqus_shortname:
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url: http://ryannielson.github.io/ #http://localhost:4000
+url: http://ryannielson.github.io #http://localhost:4000
 markdown: redcarpet
 pygments: true
 safe: true
