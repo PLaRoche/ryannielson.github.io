@@ -13,7 +13,7 @@ lsi: false
 owner:
   name:           Ryan Nielson
   avatar:         avatar.jpeg
-  bio:            "A web developer, and hobbiest game developer, who's always looking to learn new things. Currently playing with Ruby on Rails, Node.js, and Unity."
+  bio:            "A web developer, and hobbyist game developer, who's always looking to learn new things. Currently playing with Ruby on Rails, Node.js, and Unity."
   email:          ryan.nielson@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: RyanNielson
