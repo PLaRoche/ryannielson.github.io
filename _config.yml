@@ -1,7 +1,7 @@
 name: Ryan Nielson
 title: Ryan Nielson
 description: The personal site and blog of Ryan Nielson.
-disqus_shortname:
+disqus_shortname: nielsonio
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url: http://nielson.io #http://localhost:4000
 markdown: redcarpet
