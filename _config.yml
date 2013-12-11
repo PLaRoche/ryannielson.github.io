@@ -3,7 +3,7 @@ title: Ryan Nielson
 description: The personal site and blog of Ryan Nielson.
 disqus_shortname:
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url: http://ryannielson.github.io #http://localhost:4000
+url: http://nielson.io #http://localhost:4000
 markdown: redcarpet
 pygments: true
 safe: true
@@ -20,7 +20,7 @@ owner:
   facebook:
   github: RyanNielson
   stackexchange:
-  linkedin:
+  linkedin: ryannielson
   instagram:
   flickr:
   tumblr:
@@ -31,22 +31,21 @@ owner:
 background: ps_neutral.png
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: "UA-39338095-2"
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
+#links:
+#  - title: External Link
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Halifax
 future:      true
-pygments:    true
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
