@@ -3,10 +3,6 @@ layout: post
 title: Removing Turbolinks from a Ruby on Rails 4 Project
 description: "A short guide to removing Turbolinks from a Ruby on Rails 4 project manually or with the help of a gem."
 tags: [ruby on rails, web development]
-image:
-  feature: abstract-10.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: true
 share: true
 ---
