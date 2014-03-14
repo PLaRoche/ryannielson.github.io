@@ -1,54 +1,15 @@
-name: Ryan Nielson
-title: Ryan Nielson
-description: The personal site and blog of Ryan Nielson.
-disqus_shortname: nielsonio
-#Your site's domain goes here. Leave localhost server or blank when working locally.
-url: http://nielson.io #http://localhost:4000
-markdown: redcarpet
-pygments: true
-safe: true
-lsi: false
-
-# Owner/author information
-owner:
-  name:           Ryan Nielson
-  avatar:         avatar.jpeg
-  bio:            "A web developer, and hobbyist game developer, who's always looking to learn new things. Currently playing with Ruby on Rails, Node.js, and Unity."
-  email:          ryan.nielson@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: RyanNielson
-  facebook:
-  github: RyanNielson
-  stackexchange:
-  linkedin: ryannielson
-  instagram:
-  flickr:
-  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
-
-# Background image to be tiled on all pages
-background: ps_neutral.png
-
-# Analytics and webmaster tools stuff goes here
+title:        Ryan Nielson
+tagline:      "Ryan Nielson's Personal Site"
+description:  "The personal site and blog of Ryan Nielson."
+url:          http://nielson.io
+version:      1.1.1
+author:
+  name:       "Ryan Nielson"
+  email:      "ryan.nielson@gmail.com"
+markdown:     redcarpet
+permalink:    /:year/:month/:title
+pygments:     true
+paginate:     5
+github_username: RyanNielson
+twitter_username: RyanNielson
 google_analytics: "UA-39338095-2"
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Links to include in top navigation
-# For external links add external: true
-#links:
-#  - title: External Link
-#    url: http://mademistakes.com
-#    external: true
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Halifax
-future:      true
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:year/:month/:title
-
-# Amount of post to show on home page
-paginate: 5
