@@ -9,7 +9,9 @@ share: true
 
 I'm working on a new prototype of a 2D local multiplayer space game. I wanted to make a camera system that allowed for larger levels, while keeping all players in view. Another requirement was that the camera zoomed in and out depending on player proximity to create a more dynamic view of the action. 
 
-I'm working in Unity, so the code below is in a `MonoBehaviour` class. It should be attached to a `GameObject` with the `Camera` component. This could be improved in many ways, but it served its purpose for my prototype. Below is a short gif that demonstrates the behaviour of the camera, the code for the component, and short explanations of each method at the end of this post.
+I'm working in Unity, so the code below is in a `MonoBehaviour` class. It should be attached to a `GameObject` with the `Camera` component. This could be improved in many ways, but it served its purpose for my prototype. Below is a short gif that showing the camera tracking three targets (green and red), the code for the component, and short explanations of each method at the end of this post.
+
+![Target Tracking Orthographic Camera](/public/images/target_camera.gif "The camera tracking three targets (green and red)")
 
 ```csharp
 using UnityEngine;
