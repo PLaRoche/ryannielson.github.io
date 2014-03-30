@@ -1,5 +1,5 @@
 title:        Ryan Nielson
-tagline:      "Ryan Nielson's Personal Site"
+tagline:      Ryan Nielson
 description:  "The personal site and blog of Ryan Nielson."
 url:          http://nielson.io
 version:      1.1.1
@@ -13,3 +13,4 @@ paginate:     5
 github_username: RyanNielson
 twitter_username: RyanNielson
 google_analytics: "UA-39338095-2"
+disqus_shortname: nielsonio
