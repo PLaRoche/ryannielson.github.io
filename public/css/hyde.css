@@ -321,6 +321,9 @@ a:focus {
 .post {
   margin-bottom: 40px;
 }
+.post img {
+  width: 100%;
+}
 @media (min-width: 990px) {
   .post {
     margin-bottom: 60px;
