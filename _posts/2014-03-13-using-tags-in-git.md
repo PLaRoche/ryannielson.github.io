@@ -15,3 +15,5 @@ Over the last few days I've released a couple of Laravel 4 packages: [Meta](http
 The first line above create a tag called "1.0.0" and associates the message "Version 1.0.0" with it. The next line pushes your tags to your remote repository.
 
 That's all there is to it. Tags provide a great mechanism for marking code releases, and provide nice reference points to older releases.
+
+Test
