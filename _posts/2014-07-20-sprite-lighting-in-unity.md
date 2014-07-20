@@ -17,4 +17,4 @@ To get lighting to working on sprites, it's just a matter of creating a material
 
 ![Lit Sprites](/public/images/2014-07-20/lit_sprites.png "The camera tracking three targets (green and red)")
 
-I hope you found this short post useful. If you have any further questions please feel free to message me on Twitter [@RyanNielson](https://twitter.com/ryannielson) or comment on this post's page. 
+I hope you found this short post helpful. If you have any further questions please feel free to message me on Twitter [@RyanNielson](https://twitter.com/ryannielson) or comment on this post's page. 
