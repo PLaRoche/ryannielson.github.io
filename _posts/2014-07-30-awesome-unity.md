@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awesome Unity: A Curated List of Unity Assets and Resources 
+title: "Awesome Unity: A Curated List of Unity Assets and Resources"
 description: "I've created a curated and collaborative list of awesome Unity assets, projects, and resources."
 tags: [game development, unity]
 comments: true
